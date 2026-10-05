@@ -1,0 +1,149 @@
+{
+  "portfolio": {
+    "navigation": {
+      "home": "About",
+      "about": "Skills",
+      "experience": "Experience",
+      "projects": "Projects",
+      "contact": "Contact",
+      "ariaLabel": "Page navigation"
+    },
+
+    "hero": {
+      "availability": "Open to new opportunities",
+      "greeting": "Hi, I'm",
+      "line": "Growing at the intersection of",
+      "focus": "mathematics and IT.",
+      "description": "A Mathematical and Computer Modeling student working with programming, data, and automation. I build practical solutions that help solve real-world problems.",
+      "viewProjects": "View projects",
+      "contact": "Get in touch",
+      "specialty": "Specialty",
+      "programming": "Programming",
+      "dataInterest": "Interest in data"
+    },
+
+    "about": {
+      "section": "01 / ABOUT",
+      "title": "MORE THAN CODE.",
+      "subtitle": "Mathematics × programming × data.",
+      "description": "Three directions that come together in practical problems.",
+      "system": "SYSTEM / 01",
+      "interactiveField": "INTERACTIVE FIELD",
+      "explore": "Click / Drag to explore",
+
+      "mathematics": {
+        "frontTitle": "Mathematics",
+        "frontLabel": "The foundation of my academic direction",
+        "backTitle": "Modeling",
+        "description": "I study mathematical and computer modeling. I use algorithms, numerical methods, and mathematical models to solve applied problems."
+      },
+
+      "programming": {
+        "frontTitle": "Code",
+        "frontLabel": "From an idea to a working tool",
+        "backTitle": "Programming",
+        "description": "I use programming as a tool for building practical solutions, automating processes, and working with data."
+      },
+
+      "data": {
+        "frontTitle": "Data",
+        "frontLabel": "Tables, automation, and real-world processes",
+        "backTitle": "Data",
+        "description": "I work with tables, data, and process automation. I have built tracking and data management tools using Google Sheets, Apps Script, and AppSheet."
+      },
+
+      "flip": "↻ FLIP"
+    },
+
+    "experience": {
+      "section": "02 / EXPERIENCE",
+      "title": "MY JOURNEY.",
+      "description": "Several stages that gradually took me from mathematical modeling to applied IT.",
+      "footer": "ALMAS / EXPERIENCE",
+      "explore": "HOVER TO EXPLORE",
+
+      "university": {
+        "label": "University",
+        "period": "2024 — 2026",
+        "title": "Mathematical\nand Computer\nModeling",
+        "meta": "D. Serikbayev EKTU · Oskemen",
+        "description": "I study mathematical modeling, algorithms, programming, and working with data. Gradually shifting my focus from academic tasks toward practical IT solutions.",
+        "alt": "D. Serikbayev East Kazakhstan Technical University"
+      },
+
+      "obuda": {
+        "label": "Academic mobility",
+        "period": "2025",
+        "title": "Óbuda\nUniversity",
+        "meta": "Hungary · Academic mobility",
+        "description": "A semester of study in Hungary. An international academic environment, a new educational context, and experience working independently outside my usual university system.",
+        "alt": "Óbuda University"
+      },
+
+      "work": {
+        "label": "Real-world experience",
+        "period": "2025 — 2026",
+        "title": "Work\nand automation",
+        "meta": "Warehouse · logistics · tracking",
+        "description": "Working with real processes showed me where traditional record-keeping starts slowing things down. I built tracking and material-issue systems using Google Sheets, Apps Script, and AppSheet.",
+        "alt": "Work process and inventory automation"
+      },
+
+      "now": {
+        "label": "Now",
+        "period": "2026",
+        "title": "Moving\ninto IT",
+        "meta": "React · TypeScript · Python · SQL",
+        "description": "I am now combining my mathematical background, practical experience, and programming skills. I am working on my diploma project, developing personal projects, and gradually shaping my direction in IT.",
+        "alt": "Software development"
+      },
+
+      "counter": "04 / 04"
+    },
+
+    "projects": {
+      "section": "03 / PROJECTS",
+      "title": "WHAT I BUILD.",
+      "description": "Not just academic assignments, but practical solutions for real-world problems — from process automation to software systems.",
+
+      "warehouseAI": {
+        "label": "01 / MAIN PROJECT",
+        "status": "IN DEVELOPMENT",
+        "title": "Warehouse AI",
+        "shortDescription": "A warehouse management system with automated inventory tracking and AI-powered features.",
+        "description": "Developed as part of my diploma project, it combines warehouse tracking, process automation, and intelligent features."
+      },
+
+      "automation": {
+        "label": "02 / AUTOMATION",
+        "title": "Warehouse Automation",
+        "shortDescription": "Warehouse inventory automation using Google Sheets, Apps Script, and AppSheet."
+      },
+
+      "diploma": {
+        "label": "03 / DIPLOMA",
+        "title": "Diploma Project",
+        "description": "A diploma project at the intersection of mathematical modeling, programming, and applied IT solutions."
+      },
+
+      "next": {
+        "label": "04 / NEXT",
+        "title": "The next project is already in progress.",
+        "description": "The next project will appear here once it is ready enough to become part of the portfolio.",
+        "status": "BUILDING · LEARNING · ITERATING"
+      }
+    },
+
+    "contact": {
+      "section": "04 / CONTACT",
+      "title": "LET'S BUILD\nSOMETHING\nINTERESTING.",
+      "description": "If you have an idea, a project, or simply want to discuss a potential collaboration — I'd be glad to connect.",
+      "telegram": "Telegram",
+      "github": "GitHub",
+      "email": "Email",
+      "copyright": "© 2026 ALMAS",
+      "stack": "MATHEMATICS × CODE × DATA",
+      "location": "OSKEMEN, KAZAKHSTAN"
+    }
+  }
+}
